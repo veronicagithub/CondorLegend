@@ -1,0 +1,144 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/imagenes libro interactivo/[_2_]fondo 5.png" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="216" ancho_px="541" alto="100" ancho="100" rotation="0" posy="-2" posx="155" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BlackMetalSans" SIZE="48" COLOR="#FF3300" LETTERSPACING="0" KERNING="1"><B>THE CONDOR LEGEND</B><FONT FACE="Courier New" COLOR="#FF0000"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]14.png" alto_px="326" ancho_px="280" alto="100" ancho="100" rotation="0" posy="131" posx="266" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="61" ancho_px="663" alto="100" ancho="100" rotation="0" posy="457" posx="110" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="36" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"> <FONT COLOR="#FF3300">New words </FONT>and <FONT COLOR="#FF3300">Pronounciation</FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento forma="galeria/formas/f6.swf" rellenar="false" colorear="0" alto_px="67" ancho_px="100" alto="220.82" ancho="-169" rotation="-2.2" posy="87" posx="206" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="48" ancho_px="257" alto="100" ancho="100" rotation="0" posy="121" posx="-2" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BlackMetalSans" SIZE="26" COLOR="#FF00FF" LETTERSPACING="0" KERNING="1">Lets learn<FONT FACE="Verdana" SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="N - E - S- T" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]nest.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]N-E-S-T.mp3" alto_px="260" ancho_px="240" alto="207.7" ancho="319.17" rotation="0" posy="10" posx="8" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="W - I - N - G - S" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]wings.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]W-I-N-G-S.mp3" alto_px="260" ancho_px="240" alto="213.37" ancho="325.42" rotation="0" posy="-5" posx="-2" tipo="audio" src="6"/>
+    <elemento titulo="C - L - A - W" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]claws.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]C-L-A-W.mp3" alto_px="260" ancho_px="240" alto="210.25" ancho="326.25" rotation="0" posy="-1" posx="-2" tipo="audio" src="6"/>
+    <elemento titulo="L - A - K - E" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]lake.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]L-A-K-E.mp3" alto_px="260" ancho_px="240" alto="211.81" ancho="321.67" rotation="0" posy="0" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="C - O - N - D - O - R" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]condor - copia.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]C- O- N- D- O -R_2.mp3" alto_px="260" ancho_px="240" alto="210" ancho="324.17" rotation="0" posy="-2" posx="-2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="C - L - A - W" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]claws.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]C-L-A-W.mp3" alto_px="260" ancho_px="240" alto="212.31" ancho="321.25" rotation="0" posy="-1" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="M - O- U - N - T - A - I - N" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]mountain.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]M-O-U-N-T-A-I-N.mp3" alto_px="260" ancho_px="240" alto="208.22" ancho="325.84" rotation="0" posy="7" posx="-2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="P - O - N - C - H - O" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]poncho.jpg" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]P-O-N-C-H-O.mp3" alto_px="260" ancho_px="240" alto="211.16" ancho="322.09" rotation="0" posy="0" posx="1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="B - E - A - U - T - I - F - U - L" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]1.png" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]B-E-A-U-T-I-F-U-L.mp3" alto_px="260" ancho_px="240" alto="211.54" ancho="320" rotation="0" posy="-2" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="8b"/>
+  <pagina locked="0" id="9">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="H - A - N - D - S - O - M - E" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]2.1.png" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]H-A-N-D-S-O-M-E.mp3" alto_px="260" ancho_px="240" alto="211.16" ancho="322.92" rotation="0" posy="0" posx="-1" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="9b"/>
+  <pagina locked="0" id="10">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="F - A - T - H - E - R" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]father.png" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]F-A-T-H-E-R.mp3" alto_px="260" ancho_px="240" alto="211.54" ancho="321.25" rotation="0" posy="0" posx="2" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="10b"/>
+  <pagina locked="0" id="11">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento titulo="M - O - T - H - E - R" imagen="galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]mother.png" sonido="galeria/sonidos/cuadernia/sonidos libro interactivo/[_2_]M-O-T-H-E-R.mp3" alto_px="260" ancho_px="240" alto="211.54" ancho="320" rotation="0" posy="-1" posx="3" tipo="audio" src="6"/>
+  </pagina>
+  <pagina locked="0" id="11b"/>
+  <pagina locked="0" id="12">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Objetos/[_2_]folios.png" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="122" ancho_px="641" alto="100" ancho="100" rotation="0" posy="253" posx="113" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="36" COLOR="#FF00CC" LETTERSPACING="0" KERNING="1"><B>Practice your vocabulary</B><FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="147" ancho_px="354" alto="100" ancho="100" rotation="0" posy="357" posx="207" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="48" COLOR="#6600CC" LETTERSPACING="0" KERNING="1"><B>ACTIVITIES</B><FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="12b"/>
+  <pagina locked="0" id="13">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/cuadernia/imagenes libro interactivo/[_2_]lake_1.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/crucigrama.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="15" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="pictures"/>
+          <instrucciones name="instrucciones"><![CDATA[look for the pictures]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" nParejas="4"/>
+          <parejas name="numeroParejas" num="10">
+            <pareja>
+              <pregunta name="txtImagen"><![CDATA[galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]claws.jpg]]></pregunta>
+              <respuesta name="txtTexto"><![CDATA[CLAWS]]></respuesta>
+            </pareja>
+            <pareja>
+              <pregunta name="txtImagen"><![CDATA[galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]nest.jpg]]></pregunta>
+              <respuesta name="txtTexto"><![CDATA[NEST]]></respuesta>
+            </pareja>
+            <pareja>
+              <pregunta name="txtImagen"><![CDATA[galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]poncho.jpg]]></pregunta>
+              <respuesta name="txtTexto"><![CDATA[PONCHO]]></respuesta>
+            </pareja>
+            <pareja>
+              <pregunta name="txtImagen"><![CDATA[galeria/imagenes/cuadernia/imagenes libro interactivo/[_2_]lake_1.jpg]]></pregunta>
+              <respuesta name="txtTexto"><![CDATA[LAKE]]></respuesta>
+            </pareja>
+          </parejas>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="excellent"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="sorry"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="13b"/>
+  <pagina locked="0" id="14">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/sopa.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="3" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="VERBS"/>
+          <instrucciones name="instrucciones"><![CDATA[Look for the words]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" palabras="5" filas="10" columnas="10"/>
+          <palabra name="palabra" texto="FLY"/>
+          <palabra name="palabra" texto="EAT"/>
+          <palabra name="palabra" texto="CRY"/>
+          <palabra name="palabra" texto="BECOME"/>
+          <palabra name="palabra" texto="SCREAM"/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="VERY GOOD"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="TRY IT AGAIN"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+</fundacion>
